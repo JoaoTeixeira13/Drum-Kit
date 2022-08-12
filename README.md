@@ -18,5 +18,6 @@ This is a single-page application website made with Vanilla JavaScript that allo
 ## Preview
 
 **_Drums_**
+
 <img src="drumkit.gif">
 
